@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Prasad Kocherla</h1>
 <h3 align="center">Associate Software Developer</h3>
 
+
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 I'm a passionate Computer Science graduate, excited about building scalable applications and solving real-world problems using technology.
 - 🌱 Currently expanding my expertise in **DevOps**, **Cloud Infrastructure**, and **Advanced Backend Systems**.
-- 👨‍💻 I’m actively working on projects involving **Machine Learning**, and **Cloud Deployment**.
 - 👨‍💻 I’m actively working on projects involving **Workflow Automations**, and **Cloud Deployment** using platforms like **AWS**, **Azure**.
 - 📫 Reach me at: **prasadkocherla571@gmail.com**
 
@@ -64,8 +64,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-## 📫 Connect with Me
-
+## 📫 Connect with Me      
 <p align="center">
   <a href="https://www.linkedin.com/in/prasadkocherla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -75,45 +74,4 @@
   </a>
  <br>
   <br>
-   <img src="https://komarev.com/ghpvc/?username=prasadkocherla&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkocherla" />
 </p>
-
----
-<table>
-  <tr>
-    <td>
-      <h3>📊 Most Used Languages (Public Repos)</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkocherla&layout=compact&langs_count=8&hide=html,css,javascript&theme=default&hide_border=true" />
-    </td>
-    <td>
-      <h3>🤝 Connect with me:</h3>
-      <a href="https://www.linkedin.com/in/prasadkocherla/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br><br>
-      <a href="mailto:prasadkocherla571@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!--
-## 🙏 Thanks for visiting!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasadkocherla&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkocherla" />
-  <br><br>
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
-  <br><br>
-  <a href="https://www.linkedin.com/in/prasadkocherla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prasadkocherla571@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/prasadkocherla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
