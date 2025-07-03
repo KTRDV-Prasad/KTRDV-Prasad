@@ -10,6 +10,7 @@
 - 🎓 I'm a passionate Computer Science graduate, excited about building scalable applications and solving real-world problems using technology.
 - 🌱 Currently expanding my expertise in **DevOps**, **Cloud Infrastructure**, and **Advanced Backend Systems**.
 - 👨‍💻 I’m actively working on projects involving **Machine Learning**, and **Cloud Deployment**.
+- 👨‍💻 I’m actively working on projects involving **Workflow Automations**, and **Cloud Deployment** using platforms like **AWS**, **Azure**.
 - 📫 Reach me at: **prasadkocherla571@gmail.com**
 
 ---
@@ -27,7 +28,6 @@
 ### ☁️ Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-<!--![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)-->
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -40,10 +40,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!--
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
--->
 
 ---
 
@@ -90,8 +86,8 @@
   <img src="https://komarev.com/ghpvc/?username=prasadkocherla&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkocherla" />
   <br><br>
   <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
-</p>
-" target="_blank">
+  <br><br>
+  <a href="https://www.linkedin.com/in/prasadkocherla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prasadkocherla571@gmail.com">
@@ -102,12 +98,3 @@
   </a>
 </p>
 
----
-<!--
-## 🙏 Thanks for visiting!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasadkocherla&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkocherla" />
-  <br><br>
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House
-</p>-->
