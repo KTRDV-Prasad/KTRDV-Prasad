@@ -73,13 +73,32 @@
   <a href="mailto:prasadkocherla571@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/prasadkocherla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ <br>
+  <br>
+   <img src="https://komarev.com/ghpvc/?username=prasadkocherla&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkocherla" />
 </p>
 
 ---
+<table>
+  <tr>
+    <td>
+      <h3>📊 Most Used Languages (Public Repos)</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkocherla&layout=compact&langs_count=8&hide=html,css,javascript&theme=default&hide_border=true" />
+    </td>
+    <td>
+      <h3>🤝 Connect with me:</h3>
+      <a href="https://www.linkedin.com/in/prasadkocherla/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br><br>
+      <a href="mailto:prasadkocherla571@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!--
 ## 🙏 Thanks for visiting!
 
 <p align="center">
